@@ -4,6 +4,7 @@ Official website and resources for The Dove Project.
 The Dove Project exists to give a voice to the voiceless through storytelling, cinematography and community engagement. Fuelled by compassion and a desire for service, my mission is to stand with those who deserve better from society and help their stories be seen.
 
 E-mail: thedoveprojectofficial@gmail.com
+
 YouTube: www.youtube.com/@TheDoveProjectOfficial
 
 ## Features
